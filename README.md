@@ -10,7 +10,7 @@
 - 📝 Visit my portfolio website at [https://masoodahmad.dev/](https://masoodahmad.dev/)
 
 - 📫 How to reach me **masood20@connect.hku.hk**
-- 📫 How to reach me alternativel **mangimasood2000@gmail.com**
+- 📫 How to reach me alternatively **mangimasood2000@gmail.com**
 
 - ⚡ Fun fact **Me = Code, Cook & Play**
 
