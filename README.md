@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Masood-Ahmed271](https://github.com/Masood-Ahmed271)
 
-- 📝 Visit my portfolio website at [https://masoodahmad.dev/](https://masoodahmad.dev/)
+- 📝 Visit my portfolio website at [https://masood-ahmed271.github.io/](https://masood-ahmed271.github.io/)
 
 - 📫 How to reach me **masood20@connect.hku.hk**
 - 📫 How to reach me alternatively **mangimasood2000@gmail.com**
