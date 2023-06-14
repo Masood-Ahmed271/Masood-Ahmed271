@@ -1,10 +1,24 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <p> <img src="https://komarev.com/ghpvc/?username=masood-ahmed271&label=Profile%20views&color=0e75b6&style=flat" alt="masood-ahmed271" />
+<a href="mailto:masood20@connect.hku.hk"><img src="https://img.shields.io/badge/Email-Me-blueviolet" alt="Email"></a>
+</p>
+</div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Masood Ahmed</h1>
 <h3 align="center">A passionate developer & programmer.</h3>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masood-ahmed271&label=Profile%20views&color=0e75b6&style=flat" alt="masood-ahmed271" />
-<a align="right" href="mailto:masood20@connect.hku.hk"><img src="https://img.shields.io/badge/Email-Me-blueviolet" alt="Email"></a>
-</p>
+### :man_technologist: About Me :
+
 
 - 🌱 Life Moto **Pasos Cortos, Vista Larga**
 
@@ -22,7 +36,7 @@
 <a href="https://linkedin.com/in/masood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masood" height="30" width="40" /></a>
 <a href="https://fb.com/masood12ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masood12ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/datdottiboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="datdottiboi" height="30" width="40" /></a>
-<a href="https://discord.gg/fifthdottyboi#9761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fifthdottyboi#9761" height="30" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fifthdottyboi#9761" height="30" width="40" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -30,10 +44,16 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masood-ahmed271&show_icons=true&locale=en" alt="masood-ahmed271" /></p> -->
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masood-ahmed271" alt="masood-ahmed271" /></a> </p>
+### :fire: My Stats :
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masood-ahmed271" alt="masood-ahmed271" /></a> </p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masood-ahmed271&" alt="masood-ahmed271" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masood-ahmed271&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masood-ahmed271&" alt="masood-ahmed271" /></p> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masood-ahmed271&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/Masood-Ahmed271/Masood-Ahmed271/blob/output/github-contribution-grid-snake.svg)
 
