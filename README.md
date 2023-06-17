@@ -57,3 +57,7 @@
 
 ![Snake animation](https://github.com/Masood-Ahmed271/Masood-Ahmed271/blob/output/github-contribution-grid-snake.svg)
 
+### :laughing: Today's Programming Joke :
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
